@@ -11,7 +11,7 @@ Personal shell configuration and scripts.
 ## Setup
 
 ```bash
-git clone https://github.com/<username>/dotfiles.git ~/repos/dotfiles
+git clone https://github.com/vankhoawin/dotfiles.git ~/repos/dotfiles
 cd ~/repos/dotfiles
 ./install.sh
 ```
